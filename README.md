@@ -91,7 +91,7 @@ A list of upcoming conferences and their deadlines
       <td> </td>
     </tr>
     <tr>
-      <td>ASC</td>
+      <td>ASE</td>
       <td>UNKNOWN</td>
       <td> </td>
       <td> </td>
