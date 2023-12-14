@@ -1,22 +1,57 @@
 # Conferences
 A list of upcoming conferences and their deadlines
 
-# 2024
 <table>
   <thead>
     <tr>
-      <th>Event Name</th>
-      <th>Location</th>
-      <th>Date</th>
-      <th>Track Deadline</th>
+      <th>VENUE</th>
+      <th>LOCATION</th>
+      <th>DATE</th>
+      <th>DEADLINES</th>
     </tr>
   </thead>
   <tbody></tbody>
+    <tr>
+      <td><a href="https://conf.researchr.org/home/ease-2024">EASE 2024</a></td>
+      <td>Salerno, Italy</td>
+      <td>June 18-21</td>
+      <td>January 1 2024</td>
+    </tr>
+      <tr>
+      <td><a href="https://etra.acm.org/2024/cfp.html">ETRA 2024</a></td>
+      <td>Glasgow, United Kingdom</td>
+      <td>June 6-7</td>
+      <td>Long: November 4 2023<br/>Short: January 21 2023</td>
+    </tr>
+    <tr>
+      <td><a href="http://www.emipws.org/">EMIP 2024</a></td>
+      <td>Glasgow, United Kingdom</td>
+      <td>June 4-7, 2024 </td>
+      <td>Feb ?, 2024 </td>
+    </tr>
     <tr>
       <td><a href="https://conf.researchr.org/home/icsme-2024">ICSME 2024</a></td>
       <td>Flagstaff, Arizona, USA</td>
       <td>October 6-11</td>
       <td>April 4 2024</td>
+    </tr>
+    <tr>
+      <td><a href="">VL/HCC 2024</a></td>
+      <td>Liverpool, United Kingdom</td>
+      <td>September 2-6,  2024  </td>
+      <td> April 19, 2024</td>
+    </tr>
+    <tr>
+      <td><a href="https://conf.researchr.org/home/ase-2024">ASE 2024</a></td>
+      <td>Sacramento, California</td>
+      <td>Oct 27- 1 November 2024 </td>
+      <td>May 31, 2024 </td>
+    </tr>
+    <tr>
+      <td><a href="http://www.ieee-scam.org/">SCAM 2024</a></td>
+      <td>Flagstaff, Arizona, USA</td>
+      <td>October 6-11 </td>
+      <td> May ? 2024</td>
     </tr>
     <tr>
       <td><a href="https://vissoft.info/">VISSOFT 2024</a></td>
@@ -25,40 +60,10 @@ A list of upcoming conferences and their deadlines
       <td>June ? 2024</td>
     </tr>
     <tr>
-      <td>SCAM 2024</td>
-      <td>Flagstaff, Arizona, USA</td>
-      <td>October 6-11 </td>
-      <td> May ? 2024</td>
-    </tr>
-    <tr>
-      <td><a href="https://2024.esec-fse.org/">FSE 2024</a></td>
-      <td>Galinas, Brazil</td>
-      <td>July 15-19</td>
-      <td>Passed</td>
-    </tr>
-    <tr>
-      <td><a href="https://conf.researchr.org/home/ease-2024">EASE 2024</a></td>
-      <td>Salerno, Italy</td>
-      <td>June 18-21</td>
-      <td>January 1 2024</td>
-    </tr>
-    <tr>
-      <td><a href="https://etra.acm.org/2024/cfp.html">ETRA 2024</a></td>
-      <td>Glasgow, United Kingdom</td>
-      <td>June 6-7</td>
-      <td>Long: November 4 2023<br/>Short: January 21 2023</td>
-    </tr>
-    <tr>
-      <td><a href="https://conf.researchr.org/home/icse-2024">ICSE 2024</a></td>
-      <td>Lisbon, Portugal</td>
-      <td>April 14-20</td>
-      <td>Passed</td>
-    </tr>
-    <tr>
-      <td><a href="https://conf.researchr.org/home/icpc-2024">ICPC 2024</a></td>
-      <td>Lisbon, Portugal</td>
-      <td>April 14-18</td>
-      <td>October 30 2023</td>
+      <td><b>PASSED DEADLINE</b></td>
+      <td></td>
+      <td> </td>
+      <td> </td>
     </tr>
     <tr>
       <td><a href="https://2024.msrconf.org/">MSR 2024</a></td>
@@ -67,34 +72,37 @@ A list of upcoming conferences and their deadlines
       <td>November 14 2023</td>
     </tr>
     <tr>
+      <td><a href="https://conf.researchr.org/home/icpc-2024">ICPC 2024</a></td>
+      <td>Lisbon, Portugal</td>
+      <td>April 14-18</td>
+      <td>October 30 2023</td>
+    </tr>
+     <tr>
+      <td><a href="https://2024.esec-fse.org/">FSE 2024</a></td>
+      <td>Galinas, Brazil</td>
+      <td>July 15-19</td>
+      <td>Passed</td>
+    </tr>
+    <tr>
       <td><a href="https://conf.researchr.org/home/saner-2024">SANER 2024</a></td>
       <td>Rovaniemi, Finland</td>
       <td>March 12-15</td>
       <td>Passed</td>
     </tr>
     <tr>
-      <td>EMIP 2024</td>
-      <td>UNKNOWN</td>
-      <td> </td>
-      <td> </td>
-    </tr>
-    <tr>
-      <td>SIGCSE 2024</td>
+      <td><a href="https://sigcse2024.sigcse.org/">SIGCSE 2024</a></td>
       <td>Portland OR </td>
       <td>March 20-23, 2024 </td>
-      <td> </td>
+      <td>August 31, 2023 </td>
     </tr>
-    <tr>
-      <td>VL/HCC 2024</td>
-      <td>Liverpool, United Kingdom</td>
-      <td>September 2-6,  2024  </td>
-      <td> </td>
+        <tr>
+      <td><a href="https://conf.researchr.org/home/icse-2024">ICSE 2024</a></td>
+      <td>Lisbon, Portugal</td>
+      <td>April 14-20</td>
+      <td>Passed</td>
     </tr>
-    <tr>
-      <td>ASE</td>
-      <td>UNKNOWN</td>
-      <td> </td>
-      <td> </td>
-    </tr>
+
+
+
   </tbody>
 </table>
