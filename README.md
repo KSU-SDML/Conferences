@@ -21,8 +21,14 @@ A list of upcoming conferences and their deadlines
     <tr>
       <td><a href="https://vissoft.info/">VISSOFT 2024</a></td>
       <td>Flagstaff, Arizona, USA</td>
-      <td>UNKNOWN</td>
-      <td>UNKNOWN</td>
+      <td>October 6-11</td>
+      <td>June ? 2024</td>
+    </tr>
+    <tr>
+      <td>SCAM 2024</td>
+      <td>Flagstaff, Arizona, USA</td>
+      <td>October 6-11 </td>
+      <td> May ? 2024</td>
     </tr>
     <tr>
       <td><a href="https://2024.esec-fse.org/">FSE 2024</a></td>
@@ -67,27 +73,21 @@ A list of upcoming conferences and their deadlines
       <td>Passed</td>
     </tr>
     <tr>
-      <td>SCAM 2024</td>
-      <td>UNKNOWN</td>
-      <td> </td>
-      <td> </td>
-    </tr>
-    <tr>
       <td>EMIP 2024</td>
       <td>UNKNOWN</td>
       <td> </td>
       <td> </td>
     </tr>
     <tr>
-      <td>SIGCE 2024</td>
-      <td>UNKNOWN</td>
-      <td> </td>
+      <td>SIGCSE 2024</td>
+      <td>Portland OR </td>
+      <td>March 20-23, 2024 </td>
       <td> </td>
     </tr>
     <tr>
       <td>VL/HCC 2024</td>
-      <td>UNKNOWN</td>
-      <td> </td>
+      <td>Liverpool, United Kingdom</td>
+      <td>September 2-6,  2024  </td>
       <td> </td>
     </tr>
     <tr>
