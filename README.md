@@ -1,5 +1,5 @@
 # Conferences
-A list of upcoming conferences and their deadlines
+Upcoming Software Engineering conferences ordered by deadline
 
 <table>
   <thead>
