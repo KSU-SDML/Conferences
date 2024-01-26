@@ -12,7 +12,7 @@ Upcoming Software Engineering conferences ordered by deadline
   </thead>
   <tbody></tbody>
     <tr>
-      <td>a href="https://conf.researchr.org/home/icse-2025">ICSE 2025</td>
+      <td><a href="https://conf.researchr.org/home/icse-2025">ICSE 2025</td>
       <td>Ottawa, Canada</td>
       <td>April 24-May 4</td>
       <td>July 26 2024</td>
