@@ -33,7 +33,7 @@ Upcoming Software Engineering conferences ordered by deadline
       <td><a href="http://www.emipws.org/">EMIP 2024</a></td>
       <td>Glasgow, United Kingdom</td>
       <td>June 4-7, 2024 </td>
-      <td>Feb ?, 2024 </td>
+      <td>March 1, 2024 </td>
     </tr>
     <tr>
       <td><a href="https://conf.researchr.org/home/icsme-2024">ICSME 2024</a></td>
