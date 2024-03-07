@@ -63,7 +63,7 @@ Upcoming Software Engineering conferences ordered by deadline
       <td><a href="https://vissoft.info/">VISSOFT 2024</a></td>
       <td>Flagstaff, Arizona, USA</td>
       <td>October 6-11</td>
-      <td>June ? 2024</td>
+      <td>June 9 2024</td>
     </tr>
     <tr>
       <td><b>PASSED DEADLINE</b></td>
