@@ -36,6 +36,12 @@ Upcoming Software Engineering conferences ordered by deadline
       <td>TBA</td>
     </tr>
     <tr>
+      <td><a href="https://conf.researchr.org/home/saner-2025">SANER 2025</td>
+      <td>Monteal, Qubec, Canada</td>
+      <td>March 4 - 7</td>
+      <td>TBA</td>
+    </tr>
+    <tr>
       <td><b>PASSED DEADLINE</b></td>
       <td></td>
       <td> </td>
@@ -46,6 +52,12 @@ Upcoming Software Engineering conferences ordered by deadline
       <td>Ottawa, Canada</td>
       <td>April 24-May 4</td>
       <td>July 26 2024</td>
+    </tr>
+    <tr>
+      <td><a href="https://sigcse2025.sigcse.org/">SIGCSE 2025</td>
+      <td>Pittsburgh, Pennsylvania, US</td>
+      <td>February 26 - March 1</td>
+      <td>July 14 2024</td>
     </tr>
     <tr>
       <td><a href="https://conf.researchr.org/home/ease-2024">EASE 2024</a></td>
