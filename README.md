@@ -31,9 +31,9 @@ Upcoming Software Engineering conferences ordered by deadline
     </tr>
     <tr>
       <td><a href="http://etra.acm.org/2025/">ETRA 2025</td>
-      <td>Trondheim, Norway</td>
-      <td>June 23 - 27</td>
-      <td>September 5th 2024</td>
+      <td>Tokyo, Japan</td>
+      <td>June 3 - 6</td>
+      <td>TBA</td>
     </tr>
     <tr>
       <td><b>PASSED DEADLINE</b></td>
