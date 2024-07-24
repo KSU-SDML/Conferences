@@ -7,10 +7,40 @@ Upcoming Software Engineering conferences ordered by deadline
       <th>VENUE</th>
       <th>LOCATION</th>
       <th>DATE</th>
-      <th>DEADLINES</th>
+      <th>DEADLINE</th>
     </tr>
   </thead>
   <tbody></tbody>
+    <tr>
+      <td><a href="https://conf.researchr.org/home/ase-2025">ASE 2025</td>
+      <td>Seoul, South Korea</td>
+      <td>November 16 - 20</td>
+      <td>TBA</td>
+    </tr>
+     <tr>
+      <td><a href="https://conf.researchr.org/home/fse-2025">FSE 2025</td>
+      <td>Auckland, New Zealand</td>
+      <td>September 8 - 13</'td>
+      <td>TBA</td>
+    </tr>
+    <tr>
+      <td><a href="https://conf.researchr.org/home/fse-2025">FSE 2025</td>
+      <td>Trondheim, Norway</td>
+      <td>June 23 - 27</td>
+      <td>September 5th 2024</td>
+    </tr>
+    <tr>
+      <td><a href="http://etra.acm.org/2025/">ETRA 2025</td>
+      <td>Trondheim, Norway</td>
+      <td>June 23 - 27</td>
+      <td>September 5th 2024</td>
+    </tr>
+    <tr>
+      <td><b>PASSED DEADLINE</b></td>
+      <td></td>
+      <td> </td>
+      <td> </td>
+    </tr>
     <tr>
       <td><a href="https://conf.researchr.org/home/icse-2025">ICSE 2025</td>
       <td>Ottawa, Canada</td>
@@ -42,7 +72,7 @@ Upcoming Software Engineering conferences ordered by deadline
       <td>April 4 2024</td>
     </tr>
     <tr>
-      <td><a href="">VL/HCC 2024</a></td>
+      <td><a href="https://conf.researchr.org/home/vlhcc-2024">VL/HCC 2024</a></td>
       <td>Liverpool, United Kingdom</td>
       <td>September 2-6,  2024  </td>
       <td> April 19, 2024</td>
@@ -64,12 +94,6 @@ Upcoming Software Engineering conferences ordered by deadline
       <td>Flagstaff, Arizona, USA</td>
       <td>October 6-11</td>
       <td>June 9 2024</td>
-    </tr>
-    <tr>
-      <td><b>PASSED DEADLINE</b></td>
-      <td></td>
-      <td> </td>
-      <td> </td>
     </tr>
     <tr>
       <td><a href="https://2024.msrconf.org/">MSR 2024</a></td>
