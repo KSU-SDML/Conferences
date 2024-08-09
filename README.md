@@ -38,7 +38,7 @@ Upcoming Software Engineering conferences ordered by deadline
     <tr>
       <td><a href="https://2025.msrconf.org/">MSR 2025</td>
       <td>Ottowa, Ontario, Canada</td>
-      <td>June April 28 - 29</td>
+      <td>April 28 - 29</td>
       <td>TBA</td>
     </tr>
     <tr>
