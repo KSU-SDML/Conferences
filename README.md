@@ -33,7 +33,7 @@ Upcoming Software Engineering conferences ordered by deadline
       <td><a href="http://etra.acm.org/2025/">ETRA 2025</td>
       <td>Tokyo, Japan</td>
       <td>June 3 - 6</td>
-      <td>TBA</td>
+      <td>October 26 2024</td>
     </tr>
     <tr>
       <td><a href="https://2025.msrconf.org/">MSR 2025</td>
