@@ -51,7 +51,7 @@ Upcoming Software Engineering conferences ordered by deadline
       <td><a href="https://conf.researchr.org/home/saner-2025">SANER 2025</td>
       <td>Monteal, Qubec, Canada</td>
       <td>March 4 - 7</td>
-      <td>TBA</td>
+      <td>October 4 2024</td>
     </tr>
     <tr>
       <td><b>PASSED DEADLINE</b></td>
