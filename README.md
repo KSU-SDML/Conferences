@@ -45,7 +45,7 @@ Upcoming Software Engineering conferences ordered by deadline
       <td><a href="https://conf.researchr.org/track/icpc-2025/icpc-2025-research">ICPC 2025</td>
       <td>Ottowa, Ontario, Canada</td>
       <td>April 27 - 28</td>
-      <td>TBA</td>
+      <td>November 6 2024</td>
     </tr>
     <tr>
       <td><a href="https://conf.researchr.org/home/saner-2025">SANER 2025</td>
