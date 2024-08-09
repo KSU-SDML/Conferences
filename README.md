@@ -18,7 +18,7 @@ Upcoming Software Engineering conferences ordered by deadline
       <td>TBA</td>
     </tr>
      <tr>
-      <td><a href="https://conf.researchr.org/home/fse-2025">FSE 2025</td>
+      <td><a href="https://conf.researchr.org/home/icsme-2025">ICSME 2025</td>
       <td>Auckland, New Zealand</td>
       <td>September 8 - 13</'td>
       <td>TBA</td>
