@@ -28,25 +28,19 @@ Upcoming Software Engineering conferences ordered by deadline
     </tr>
     <tr>
       <td><a>SCAM 2026</a></td>
-      <td>Italy</td>
-      <td>September</td>
-      <td>TBA</td>
-    </tr>
-    <tr>
-      <td><a>SCAM 2026</a></td>
-      <td>Italy</td>
+      <td>Benevento, Italy</td>
       <td>September</td>
       <td>TBA</td>
     </tr>
     <tr>
       <td><a>VISSOFT 2026</a></td>
-      <td>Italy</td>
+      <td>Benevento, Italy</td>
       <td>September</td>
       <td>TBA</td>
     </tr>
     <tr>
       <td><a>ICSME 2026</a></td>
-      <td>Italy</td>
+      <td>Benevento, Italy</td>
       <td>September</td>
       <td>TBA</td>
     </tr>
