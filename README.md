@@ -48,7 +48,7 @@ Upcoming Software Engineering conferences ordered by deadline
       <td><a>FSE 2026</a></td>
       <td>Montréal, Canada</td>
       <td>June</td>
-      <td>TBA</td>
+      <td>September 4th, 2025</td>
     </tr>
     <tr>
       <td><a>ICPC 2026</a></td>
@@ -72,7 +72,7 @@ Upcoming Software Engineering conferences ordered by deadline
       <td><a href="https://conf.researchr.org/home/saner-2026">SANER 2026</a></td>
       <td>Limassol, Cyprus</td>
       <td>March 3 - 6</td>
-      <td>TBA</td>
+      <td>October 9th, 2025</td>
     </tr>
     <tr>
       <td><a href="https://conf.researchr.org/home/icse-2026">ICSE 2026</a></td>
