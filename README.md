@@ -159,6 +159,9 @@ Upcoming Software Engineering conferences ordered by deadline
       <td>October 26 2024</td>
     </tr>
     <tr>
+      <td colspan="4"><b>CONFERENCE OVER</b></td>
+    </tr>
+    <tr>
       <td><a href="https://conf.researchr.org/home/icse-2025/cseet-2025">CSEE&amp;T 2025</a></td>
       <td>Ottowa, Ontario, Canada</td>
       <td>April 27 - May 3</td>
@@ -181,9 +184,6 @@ Upcoming Software Engineering conferences ordered by deadline
       <td>Ottawa, Ontario, Canada</td>
       <td>April 24 - May 4</td>
       <td>July 26 2024</td>
-    </tr>
-    <tr>
-      <td colspan="4"><b>CONFERENCE OVER</b></td>
     </tr>
     <tr>
       <td><a href="https://conf.researchr.org/home/saner-2025">SANER 2025</a></td>
