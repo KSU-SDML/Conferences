@@ -45,7 +45,7 @@ Upcoming Software Engineering conferences ordered by deadline
       <td>TBA</td>
     </tr>
     <tr>
-      <td><a>FSE 2026</a></td>
+      <td><a href="https://conf.researchr.org/home/fse-2026">FSE 2026</a></td>
       <td>Montréal, Canada</td>
       <td>June</td>
       <td>September 4th, 2025</td>
@@ -63,7 +63,7 @@ Upcoming Software Engineering conferences ordered by deadline
       <td>TBA</td>
     </tr>
     <tr>
-      <td><a>MSR 2026</a></td>
+      <td><a href="https://conf.researchr.org/home/msr-2026">MSR 2026</a></td>
       <td>Rio de Janeiro, Brazil</td>
       <td>April</td>
       <td>TBA</td>
