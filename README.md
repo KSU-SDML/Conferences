@@ -96,7 +96,7 @@ Upcoming Software Engineering conferences ordered by deadline
       <td>(2nd Cycle) July 11th, 2025</td>
     </tr>
     <tr>
-      <td><a>SIGCSE 2026</a></td>
+      <td><a href="https://sigcse2026.sigcse.org/">SIGCSE 2026</a></td>
       <td>St. Louis, Missouri, United States</td>
       <td>February 18 - 21</td>
       <td>June 26th, 2025</td>
