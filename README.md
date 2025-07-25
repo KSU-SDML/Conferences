@@ -45,12 +45,6 @@ Upcoming Software Engineering conferences ordered by deadline
       <td>TBA</td>
     </tr>
     <tr>
-      <td><a>ICPC 2026</a></td>
-      <td>TBA</td>
-      <td>April</td>
-      <td>TBA</td>
-    </tr>
-    <tr>
       <td><a href="https://cseet26.techconf.org/">CSEE&amp;T 2026</a></td>
       <td>Florence, Italy</td>
       <td>July 20 - 22</td>
@@ -61,6 +55,12 @@ Upcoming Software Engineering conferences ordered by deadline
       <td>Rio de Janeiro, Brazil</td>
       <td>April 12 - 18</td>
       <td>October 20th, 2025</td>
+    </tr>
+    <tr>
+      <td><a href="https://conf.researchr.org/home/icpc-2026">ICPC 2026</a></td>
+      <td>Rio de Janeiro, Brazil</td>
+      <td>April 12 - 13</td>
+      <td>October 19th, 2025</td>
     </tr>
     <tr>
       <td><a href="https://conf.researchr.org/home/splash-2026">SPLASH 2026</a></td>
