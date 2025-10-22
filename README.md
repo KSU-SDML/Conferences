@@ -15,9 +15,9 @@ Upcoming Software Engineering conferences ordered by deadline
       <td colspan="4"><b>2026</b></td>
     </tr>
     <tr>
-      <td><a>MODELS 2026</a></td>
-      <td>TBA</td>
-      <td>October</td>
+      <td><a href="https://conf.researchr.org/home/models-2026">MODELS 2026</a></td>
+      <td>Málaga, Spain</td>
+      <td>October 4 - 9</td>
       <td>TBA</td>
     </tr>
     <tr>
@@ -51,6 +51,27 @@ Upcoming Software Engineering conferences ordered by deadline
       <td>November 10th, 2025</td>
     </tr>
     <tr>
+      <th>VENUE</th>
+      <th>LOCATION</th>
+      <th>DATE*</th>
+      <th>DEADLINE</th>
+    </tr>
+    <tr>
+      <td colspan="4"><b>PASSED SUBMISSION DEADLINE</b></td>
+    </tr>
+    <tr>
+      <td><a href="https://conf.researchr.org/home/splash-2026">SPLASH 2026</a></td>
+      <td>Oakland, California, United States</td>
+      <td>October 3 - 9</td>
+      <td>October 10th, 2025</td>
+    </tr>
+    <tr>
+      <td><a href="https://conf.researchr.org/home/fse-2026">FSE 2026</a></td>
+      <td>Montréal, Canada</td>
+      <td>July 5 - 9</td>
+      <td>September 4th, 2025</td>
+    </tr>
+    <tr>
       <td><a href="https://conf.researchr.org/home/msr-2026">MSR 2026</a></td>
       <td>Rio de Janeiro, Brazil</td>
       <td>April 12 - 18</td>
@@ -63,37 +84,16 @@ Upcoming Software Engineering conferences ordered by deadline
       <td>October 19th, 2025</td>
     </tr>
     <tr>
-      <td><a href="https://conf.researchr.org/home/splash-2026">SPLASH 2026</a></td>
-      <td>Oakland, California, United States</td>
-      <td>October 3 - 9</td>
-      <td>October 10th, 2025</td>
+      <td><a href="https://conf.researchr.org/home/icse-2026">ICSE 2026</a></td>
+      <td>Rio de Janeiro, Brazil</td>
+      <td>April 12 - 18</td>
+      <td>(2nd Cycle) July 11th, 2025</td>
     </tr>
     <tr>
       <td><a href="https://conf.researchr.org/home/saner-2026">SANER 2026</a></td>
       <td>Limassol, Cyprus</td>
       <td>March 17 - 20</td>
       <td>October 9th, 2025</td>
-    </tr>
-    <tr>
-      <th>VENUE</th>
-      <th>LOCATION</th>
-      <th>DATE*</th>
-      <th>DEADLINE</th>
-    </tr>
-    <tr>
-      <td colspan="4"><b>PASSED SUBMISSION DEADLINE</b></td>
-    </tr>
-    <tr>
-      <td><a href="https://conf.researchr.org/home/fse-2026">FSE 2026</a></td>
-      <td>Montréal, Canada</td>
-      <td>July 5 - 9</td>
-      <td>September 4th, 2025</td>
-    </tr>
-    <tr>
-      <td><a href="https://conf.researchr.org/home/icse-2026">ICSE 2026</a></td>
-      <td>Rio de Janeiro, Brazil</td>
-      <td>April 12 - 18</td>
-      <td>(2nd Cycle) July 11th, 2025</td>
     </tr>
     <tr>
       <td><a href="https://sigcse2026.sigcse.org/">SIGCSE 2026</a></td>
