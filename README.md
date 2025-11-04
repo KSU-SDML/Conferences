@@ -36,7 +36,7 @@ Upcoming Software Engineering conferences ordered by deadline
       <td><a href="https://conf.researchr.org/home/icsme-2026">ICSME 2026</a></td>
       <td>Benevento, Italy</td>
       <td>September 14 - 18</td>
-      <td>TBA</td>
+      <td>February 27th, 2026</td>
     </tr>
     <tr>
       <td><a href="https://cseet26.techconf.org/">CSEE&amp;T 2026</a></td>
