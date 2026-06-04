@@ -1,5 +1,5 @@
 # Conferences
-Upcoming Software Engineering conferences ordered by deadline
+Upcoming Software Engineering conferences ordered by submission deadline
 
 <table>
   <thead>
@@ -60,7 +60,7 @@ Upcoming Software Engineering conferences ordered by deadline
       <td>June 6</td>
     </tr>
     <tr>
-      <td colspan="4"> - </td>
+      <td colspan="4">   </td>
     </tr>
     <tr>
       <td colspan="4"><b>PASSED SUBMISSION DEADLINE</b></td>
