@@ -59,20 +59,17 @@ Upcoming Software Engineering conferences ordered by deadline
       <td>September 14 - 15</td>
       <td>June 6</td>
     </tr>
-     <tr>
-      <th> </th>
-      <th> </th>
-      <th> </th>
-      <th> </th>
+    <tr>
+      <td colspan="4"> - </td>
+    </tr>
+    <tr>
+      <td colspan="4"><b>PASSED SUBMISSION DEADLINE</b></td>
     </tr>
    <tr>
       <th>VENUE</th>
       <th>LOCATION</th>
       <th>DATE</th>
       <th>SUBMISSION DATE</th>
-    </tr>
-    <tr>
-      <td colspan="4"><b>PASSED SUBMISSION DEADLINE</b></td>
     </tr>
     <tr>
       <td><a href="https://conf.researchr.org/home/models-2026">MODELS 2026</a></td>
