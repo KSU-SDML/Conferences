@@ -11,8 +11,6 @@ Upcoming Software Engineering conferences ordered by deadline
     </tr>
   </thead>
   <tbody>
-  
-  
     <tr>
       <td><a href="https://conf.researchr.org/home/fse-2026">FSE 2027</a></td>
       <td>Shenzhen, China</td>
@@ -61,8 +59,6 @@ Upcoming Software Engineering conferences ordered by deadline
       <td>September 14 - 15</td>
       <td>June 6</td>
     </tr>
-    
-    
     <tr>
       <th>VENUE</th>
       <th>LOCATION</th>
@@ -72,9 +68,6 @@ Upcoming Software Engineering conferences ordered by deadline
     <tr>
       <td colspan="4"><b>PASSED SUBMISSION DEADLINE</b></td>
     </tr>
-    
-    
-    
     <tr>
       <td><a href="https://conf.researchr.org/home/models-2026">MODELS 2026</a></td>
       <td>Málaga, Spain</td>
