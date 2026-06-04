@@ -11,26 +11,75 @@ Upcoming Software Engineering conferences ordered by deadline
     </tr>
   </thead>
   <tbody>
+  
+  
     <tr>
-      <td colspan="4"><b>2026</b></td>
+      <td><a href="https://conf.researchr.org/home/fse-2026">FSE 2027</a></td>
+      <td>Shenzhen, China</td>
+      <td>July 12 - 16</td>
+      <td>October 2, 2027</td>
     </tr>
+    <tr>
+      <td><a href="https://conf.researchr.org/home/icse-2027">MSR 2027</a></td>
+      <td>Dublin, Ireland</td>
+      <td>April 25 - May 1</td>
+      <td>October, 2027</td>
+    </tr>
+    <tr>
+      <td><a href="https://conf.researchr.org/home/icse-2027">ICPC 2027</a></td>
+      <td>Dublin, Ireland</td>
+      <td>April 25 - May 1</td>
+      <td>October, 2027</td>
+    </tr>
+    <tr>
+      <td><a href="https://conf.researchr.org/home/icse-2027">ICSE 2027</a></td>
+      <td>Dublin, Ireland</td>
+      <td>April 25 - May 1</td>
+      <td>June 23, 2027</td>
+    </tr>
+    <tr>
+      <td><a href="https://conf.researchr.org/home/saner-2027">SANER 2027</a></td>
+      <td>Richmond VA, USA</td>
+      <td>March 9 - 12</td>
+      <td>Sept. 21, 2026</td>
+    </tr>
+    <tr>
+      <td><a href="https://2027.sigcse-ts.acm.org/">SIGCSE 2027</a></td>
+      <td>Sacramento, CA, United States</td>
+      <td>February 17 - 20</td>
+      <td>June 26th, 2026</td>
+    </tr>
+    <tr>
+      <td><a href="https://conf.researchr.org/home/scam-2026">SCAM 2026</a></td>
+      <td>Benevento, Italy</td>
+      <td>September 14 - 15</td>
+      <td>June 11</td>
+    </tr>
+    <tr>
+      <td><a href="https://vissoft.io/2026/submission.html">VISSOFT 2026</a></td>
+      <td>Benevento, Italy</td>
+      <td>September 14 - 15</td>
+      <td>June 6</td>
+    </tr>
+    
+    
+    <tr>
+      <th>VENUE</th>
+      <th>LOCATION</th>
+      <th>DATE*</th>
+      <th>DEADLINE</th>
+    </tr>
+    <tr>
+      <td colspan="4"><b>PASSED SUBMISSION DEADLINE</b></td>
+    </tr>
+    
+    
+    
     <tr>
       <td><a href="https://conf.researchr.org/home/models-2026">MODELS 2026</a></td>
       <td>Málaga, Spain</td>
       <td>October 4 - 9</td>
-      <td>TBA</td>
-    </tr>
-    <tr>
-      <td><a>SCAM 2026</a></td>
-      <td>Benevento, Italy</td>
-      <td>September</td>
-      <td>TBA</td>
-    </tr>
-    <tr>
-      <td><a>VISSOFT 2026</a></td>
-      <td>Benevento, Italy</td>
-      <td>September</td>
-      <td>TBA</td>
+      <td>May 26</td>
     </tr>
     <tr>
       <td><a href="https://conf.researchr.org/home/icsme-2026">ICSME 2026</a></td>
@@ -49,15 +98,12 @@ Upcoming Software Engineering conferences ordered by deadline
       <td>Marrakech, Morroco</td>
       <td>June 1 - 4</td>
       <td>November 10th, 2025</td>
-    </tr>
+    </tr>    
     <tr>
-      <th>VENUE</th>
-      <th>LOCATION</th>
-      <th>DATE*</th>
-      <th>DEADLINE</th>
-    </tr>
-    <tr>
-      <td colspan="4"><b>PASSED SUBMISSION DEADLINE</b></td>
+      <td><a href="https://conf.researchr.org/home/ase-2025">ASE 2026</a></td>
+      <td>Munich, Germany</td>
+      <td>Oct 12 - 16</td>
+      <td>March 26, 2026</td>
     </tr>
     <tr>
       <td><a href="https://conf.researchr.org/home/splash-2026">SPLASH 2026</a></td>
