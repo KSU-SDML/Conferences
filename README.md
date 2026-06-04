@@ -7,7 +7,7 @@ Upcoming Software Engineering conferences ordered by deadline
       <th>VENUE</th>
       <th>LOCATION</th>
       <th>DATE</th>
-      <th>DEADLINE*</th>
+      <th>SUBMISSION DATE</th>
     </tr>
   </thead>
   <tbody>
@@ -59,11 +59,17 @@ Upcoming Software Engineering conferences ordered by deadline
       <td>September 14 - 15</td>
       <td>June 6</td>
     </tr>
-    <tr>
+     <tr>
+      <th> </th>
+      <th> </th>
+      <th> </th>
+      <th> </th>
+    </tr>
+   <tr>
       <th>VENUE</th>
       <th>LOCATION</th>
-      <th>DATE*</th>
-      <th>DEADLINE</th>
+      <th>DATE</th>
+      <th>SUBMISSION DATE</th>
     </tr>
     <tr>
       <td colspan="4"><b>PASSED SUBMISSION DEADLINE</b></td>
