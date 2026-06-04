@@ -147,9 +147,6 @@ Upcoming Software Engineering conferences ordered by deadline
       <td>May 30th, 2025</td>
     </tr>
     <tr>
-      <td colspan="4"><b>CONFERENCE OVER</b></td>
-    </tr>
-    <tr>
       <td><a href="https://conf.researchr.org/home/vlhcc-2025">VLC/HCC 2025</a></td>
       <td>Raleigh, North Carolina, United States</td>
       <td>October 6 - 10</td>
