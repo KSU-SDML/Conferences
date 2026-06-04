@@ -30,16 +30,16 @@ Upcoming Software Engineering conferences ordered by deadline
       <td>October, 2027</td>
     </tr>
     <tr>
-      <td><a href="https://conf.researchr.org/home/icse-2027">ICSE 2027</a></td>
-      <td>Dublin, Ireland</td>
-      <td>April 25 - May 1</td>
-      <td>June 23, 2027</td>
-    </tr>
-    <tr>
       <td><a href="https://conf.researchr.org/home/saner-2027">SANER 2027</a></td>
       <td>Richmond VA, USA</td>
       <td>March 9 - 12</td>
       <td>Sept. 21, 2026</td>
+    </tr>
+    <tr>
+      <td><a href="https://conf.researchr.org/home/icse-2027">ICSE 2027</a></td>
+      <td>Dublin, Ireland</td>
+      <td>April 25 - May 1</td>
+      <td>June 23, 2027</td>
     </tr>
     <tr>
       <td><a href="https://2027.sigcse-ts.acm.org/">SIGCSE 2027</a></td>
