@@ -13,45 +13,45 @@ Upcoming Software Engineering conferences ordered by submission deadline
   <tbody>
     <tr>
       <td><a href="https://conf.researchr.org/home/ase-2025">ASE 2027</a></td>
-      <td>?</td>
-      <td>Oct 12 - 16</td>
-      <td>March ?, 2027</td>
+      <td>TBD</td>
+      <td>Oct</td>
+      <td>March, 2027</td>
     </tr>  
     <tr>
       <td><a href="https://conf.researchr.org/home/icsme-2026">ICSME 2027</a></td>
-      <td>?</td>
-      <td>September ?</td>
-      <td>February ?, 2027</td>
+      <td>TBD</td>
+      <td>September</td>
+      <td>February, 2027</td>
     </tr>
     <tr>
       <td><a href="https://cseet26.techconf.org/">CSEE&amp;T 2027</a></td>
-      <td>?</td>
-      <td>July ?</td>
-      <td>February ?, 2027</td>
+      <td>TBD</td>
+      <td>July </td>
+      <td>February, 2027</td>
     </tr>
     <tr>
       <td><a href="https://etra.acm.org/2026/">ETRA 2027</a></td>
-      <td>?</td>
-      <td>June ?</td>
-      <td>November ?, 2026</td>
+      <td>TBD</td>
+      <td>June </td>
+      <td>November, 2026</td>
     </tr>    
     <tr>
       <td><a href="https://conf.researchr.org/home/fse-2026">FSE 2027</a></td>
       <td>Shenzhen, China</td>
       <td>July 12 - 16</td>
-      <td>October 2, 2027</td>
+      <td>October 2, 2026</td>
     </tr>
     <tr>
       <td><a href="https://conf.researchr.org/home/icse-2027">MSR 2027</a></td>
       <td>Dublin, Ireland</td>
       <td>April 25 - May 1</td>
-      <td>October, 2027</td>
+      <td>October, 2026</td>
     </tr>
     <tr>
       <td><a href="https://conf.researchr.org/home/icse-2027">ICPC 2027</a></td>
       <td>Dublin, Ireland</td>
       <td>April 25 - May 1</td>
-      <td>October, 2027</td>
+      <td>October, 2026</td>
     </tr>
     <tr>
       <td><a href="https://conf.researchr.org/home/saner-2027">SANER 2027</a></td>
@@ -63,7 +63,7 @@ Upcoming Software Engineering conferences ordered by submission deadline
       <td><a href="https://conf.researchr.org/home/icse-2027">ICSE 2027</a></td>
       <td>Dublin, Ireland</td>
       <td>April 25 - May 1</td>
-      <td>June 23, 2027</td>
+      <td>June 23, 2026</td>
     </tr>
     <tr>
       <td><a href="https://2027.sigcse-ts.acm.org/">SIGCSE 2027</a></td>
