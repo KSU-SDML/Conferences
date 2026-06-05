@@ -5,83 +5,83 @@ Upcoming Software Engineering conferences ordered by submission deadline
   <thead>
     <tr>
       <th>VENUE</th>
+      <th>SUBMISSION DATE</th>
       <th>LOCATION</th>
       <th>DATE</th>
-      <th>SUBMISSION DATE</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td><a href="https://conf.researchr.org/home/ase-2025">ASE 2027</a></td>
+      <td>June 6</td>
       <td>TBD</td>
       <td>Oct</td>
-      <td>March, 2027</td>
     </tr>  
     <tr>
       <td><a href="https://conf.researchr.org/home/icsme-2026">ICSME 2027</a></td>
+      <td>June 11</td>
       <td>TBD</td>
       <td>September</td>
-      <td>February, 2027</td>
     </tr>
     <tr>
       <td><a href="https://cseet26.techconf.org/">CSEE&amp;T 2027</a></td>
+      <td>June 26th, 2026</td>
       <td>TBD</td>
       <td>July </td>
-      <td>February, 2027</td>
     </tr>
     <tr>
       <td><a href="https://etra.acm.org/2026/">ETRA 2027</a></td>
+      <td>June 23, 2026</td>
       <td>TBD</td>
       <td>June </td>
-      <td>November, 2026</td>
     </tr>    
     <tr>
       <td><a href="https://conf.researchr.org/home/fse-2026">FSE 2027</a></td>
+      <td>Sept. 21, 2026</td>
       <td>Shenzhen, China</td>
       <td>July 12 - 16</td>
-      <td>October 2, 2026</td>
     </tr>
     <tr>
       <td><a href="https://conf.researchr.org/home/icse-2027">MSR 2027</a></td>
+      <td>October, 2026</td>
       <td>Dublin, Ireland</td>
       <td>April 25 - May 1</td>
-      <td>October, 2026</td>
     </tr>
     <tr>
       <td><a href="https://conf.researchr.org/home/icse-2027">ICPC 2027</a></td>
+      <td>October, 2026</td>
       <td>Dublin, Ireland</td>
       <td>April 25 - May 1</td>
-      <td>October, 2026</td>
     </tr>
     <tr>
       <td><a href="https://conf.researchr.org/home/saner-2027">SANER 2027</a></td>
+      <td>October 2, 2026</td>
       <td>Richmond VA, USA</td>
       <td>March 9 - 12</td>
-      <td>Sept. 21, 2026</td>
     </tr>
     <tr>
       <td><a href="https://conf.researchr.org/home/icse-2027">ICSE 2027</a></td>
+      <td>November, 2026</td>
       <td>Dublin, Ireland</td>
       <td>April 25 - May 1</td>
-      <td>June 23, 2026</td>
     </tr>
     <tr>
       <td><a href="https://2027.sigcse-ts.acm.org/">SIGCSE 2027</a></td>
+      <td>February, 2027</td>
       <td>Sacramento, CA, United States</td>
       <td>February 17 - 20</td>
-      <td>June 26th, 2026</td>
     </tr>
     <tr>
       <td><a href="https://conf.researchr.org/home/scam-2026">SCAM 2026</a></td>
+      <td>February, 2027</td>
       <td>Benevento, Italy</td>
       <td>September 14 - 15</td>
-      <td>June 11</td>
     </tr>
     <tr>
       <td><a href="https://vissoft.io/2026/submission.html">VISSOFT 2026</a></td>
+      <td>March, 2027</td>
       <td>Benevento, Italy</td>
       <td>September 14 - 15</td>
-      <td>June 6</td>
     </tr>
     <tr>
       <td colspan="4">   </td>
