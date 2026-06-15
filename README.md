@@ -54,6 +54,12 @@ Upcoming Software Engineering conferences ordered by submission deadline
       <td>April 25 - May 1</td>
     </tr>
     <tr>
+      <td><a href="https://conf.researchr.org/home/icse-2027">SEET 2027</a></td>
+      <td>Oct 23, 2026</td>
+      <td>Dublin, Ireland</td>
+      <td>April 25 - May 1</td>
+    </tr>
+    <tr>
       <td><a href="https://conf.researchr.org/home/saner-2027">SANER 2027</a></td>
       <td>Sept. 21, 2026</td>
       <td>Richmond VA, USA</td>
@@ -68,7 +74,7 @@ Upcoming Software Engineering conferences ordered by submission deadline
     <tr>
       <td><a href="https://2027.sigcse-ts.acm.org/">SIGCSE 2027</a></td>
       <td>June 26th, 2026</td>
-      <td>Sacramento, CA, United States</td>
+      <td>Sacramento, CA</td>
       <td>February 17 - 20</td>
     </tr>
     <tr>
@@ -124,6 +130,12 @@ Upcoming Software Engineering conferences ordered by submission deadline
       <td>March 26, 2026</td>
       <td>Munich, Germany</td>
       <td>Oct 12 - 16</td>
+    </tr>
+    <tr>
+      <td><a href="https://conf.researchr.org/home/vlhcc-2026">VL/HCC 2026</a></td>
+      <td>May, 2026</td>
+      <td>Paderborn, Germany</td>
+      <td>Oct 1,  2026  </td>
     </tr>
     <tr>
       <td><a href="https://conf.researchr.org/home/splash-2026">SPLASH 2026</a></td>
