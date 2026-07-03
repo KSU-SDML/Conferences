@@ -48,7 +48,7 @@ Upcoming Software Engineering conferences ordered by submission deadline
       <td>April 25 - May 1</td>
     </tr>
     <tr>
-      <td><a href="https://conf.researchr.org/home/icse-2027">ICPC 2027</a></td>
+      <td><a href="https://conf.researchr.org/home/icpc-2027">ICPC 2027</a></td>
       <td>October, 2026</td>
       <td>Dublin, Ireland</td>
       <td>April 25 - May 1</td>
