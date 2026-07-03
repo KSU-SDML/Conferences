@@ -36,7 +36,7 @@ Upcoming Software Engineering conferences ordered by submission deadline
       <td>June </td>
     </tr>    
     <tr>
-      <td><a href="https://conf.researchr.org/home/fse-2026">FSE 2027</a></td>
+      <td><a href="https://conf.researchr.org/home/fse-2027">FSE 2027</a></td>
       <td>October 2, 2026</td>
       <td>Shenzhen, China</td>
       <td>July 12 - 16</td>
