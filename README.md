@@ -30,7 +30,7 @@ Upcoming Software Engineering conferences ordered by submission deadline
       <td>July </td>
     </tr>
     <tr>
-      <td><a href="https://etra.acm.org/2026/">ETRA 2027</a></td>
+      <td><a href="https://etra.acm.org/2027/">ETRA 2027</a></td>
       <td>November, 2026</td>
       <td>Pamplona, Spain</td>
       <td>June </td>
